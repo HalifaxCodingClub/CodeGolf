@@ -1,0 +1,1 @@
+﻿class e{static void Main(){string b="green bottle",c="s standing on the wall",e="\n",d=b+c;System.Console.Write($"Ten {d+e}Ten {d+e}And if one {b} should accidentally fall,{e}There'll be nine {d}.");}}
